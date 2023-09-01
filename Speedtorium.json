@@ -2,7 +2,7 @@
   "Author": "Windmourn (Updated by Marxvee)",
   "Name": "Speedtorium",
   "InternalName": "Speedtorium",
-  "AssemblyVersion": "3.0.0",
+  "AssemblyVersion": "1.3.0.0",
   "Punchline": "Skips cutscenes in Duty Roulette: Main Scenario.",
   "Description": "Automatically skips cutscenes from duties in Duty Roulette: Main Scenario. Togglable.",
   "ApplicableVersion": "any",
